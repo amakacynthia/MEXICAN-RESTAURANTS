@@ -6,6 +6,8 @@
 
 This dataset named **the restaurant rating dataset** includes details about Mexican restaurants. In this city, a customer survey was conducted in 2012 to gather data about each restaurant, their menus, client demographics, and customer preferences.
 
+**_Disclaimer:_** _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI._
+
 # PROBLEM STATEMENT
 1.What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
 
@@ -34,6 +36,9 @@ There are;
 - Restaurant rating
 - Customer demographics
 - General restaurant
+
+  #### [You can interact with the report here](file:///C:/Users/USER/AppData/Local/Temp/Power%20BI%20Desktop/print-job-acaa7b90-79a7-41c3-9ae9-f95df2527430/CAPSTONE%20P2.pdf)
+
   
  # RESTAURANT RATINGS
  ![](restaurant_rating.png)
