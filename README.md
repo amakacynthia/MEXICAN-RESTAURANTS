@@ -37,9 +37,10 @@ There are;
 - Customer demographics
 - General restaurant
 
-  #### [You can interact with the report here](file:///C:/Users/USER/AppData/Local/Temp/Power%20BI%20Desktop/print-job-acaa7b90-79a7-41c3-9ae9-f95df2527430/CAPSTONE%20P2.pdf)
+ #### [You can interact with the report here](file:///C:/Users/USER/AppData/Local/Temp/Power%20BI%20Desktop/print-job-acaa7b90-79a7-41c3-9ae9-f95df2527430/CAPSTONE%20P2.pdf)
 
   
+
  # RESTAURANT RATINGS
  ![](restaurant_rating.png)
  
@@ -75,6 +76,7 @@ There are;
 - There are 138 customers with  an average age of 27.
 - Customers were accessed based on the following;transportation, state, age group and marital status, city, occupation etc.
 -  we were able to visually represent informations about the customers with appealing visuals.
+
  # GENERAL RESTURANT 
  ![](general_dashboard.png)
 # Features 
