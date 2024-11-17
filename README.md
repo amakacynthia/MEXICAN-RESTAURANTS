@@ -37,7 +37,7 @@ There are;
 - Customer demographics
 - General restaurant
 
- #### [You can interact with the report here](file:///C:/Users/USER/AppData/Local/Temp/Power%20BI%20Desktop/print-job-acaa7b90-79a7-41c3-9ae9-f95df2527430/CAPSTONE%20P2.pdf)
+ ### [You can view the dashboards here](https://medium.com/@aojiridike/tacos-trends-and-triumphs-a-data-analysts-journey-into-the-heart-of-mexico-s-restaurant-scene-d62b46ced721)
 
   
 
@@ -112,7 +112,7 @@ If the highest rated restaurants, takes charge of the preferences of their custo
 - Identify aspects of the restaurant experience (e.g., service, ambiance) that are receiving low ratings and implement improvements.
 - Target Marketing: Use customer segmentation data to tailor marketing campaigns to different customer groups
 
-![](thank_you.jpg)
+ ![](thank_you.jpg)
 
 
 
