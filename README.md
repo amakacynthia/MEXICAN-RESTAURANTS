@@ -79,7 +79,11 @@ There are;
 
  # GENERAL RESTURANT 
  ![](general_dashboard.png)
-# Features 
+
+ 
+# Features
+![general_dashboard](https://github.com/user-attachments/assets/17ee9335-f392-4cdd-aa93-ac97eb037493)
+
 - it contains a card visual
 - Three clustered column charts
 
